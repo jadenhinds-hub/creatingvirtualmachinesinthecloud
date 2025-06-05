@@ -51,7 +51,7 @@ Click the **+ Create** button to add a new one.
 
 - **Subscription**: Make sure that the appropriate subscription is selected from the dropdown menu.
 - **Name**: Give the Resource Group a clear, descriptive name (e.g., "github-rg"). This group will act as the container for your virtual machines.
-- **Region**: Select a region **I used (US) East US 2**. 
+- **Region**: Select a region.  **I used (US) East US 2**. 
 
 Go ahead and press** Next** until you reach the **Review + Create** section.
 
